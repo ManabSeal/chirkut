@@ -1,7 +1,7 @@
 # chirkut
 Chirkut is a free-for-all webapp made with firebase real-time database and storage.
 
-#How to run it
+# How to run it
 Open the project into VS Code. Run the command "npm install".
 If it gives any error run "npm install --force".
 Set a firebase project and download the "google-services.json" file.
